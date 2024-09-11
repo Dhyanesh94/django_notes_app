@@ -28,3 +28,6 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+# Django Notes App
+This is a test commit for triggering Jenkins pipeline using webhooks.
